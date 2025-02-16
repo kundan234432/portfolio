@@ -1,0 +1,19 @@
+.about-section {
+  background-color: #0a192f;
+  color: #ccd6f6;
+}
+
+.section-title {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.section-number {
+  color: #64ffda;
+  margin-right: 10px;
+}
+
+.highlight {
+  color: #64ffda;
+}
